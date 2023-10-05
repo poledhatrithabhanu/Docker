@@ -1,0 +1,6 @@
+PUSHING OF FILE INTO GITHUB:
+1.git add.
+2.git status
+3.git commit -m "comment"
+4.git remote add origin "github link"
+4.git push -u  origin master 
